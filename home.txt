@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+
 
 fsdfsdf This is my first git file sdfsdfsdfsdsdfsdfsdf 水电费水电费
 edkfjsdklfjsdljflasd
 
-=======
-fsdfsdf This is my first git file sdfsdfsdfsdsdfsdfsdf 水电费水电费
-dfsdfsdfasdfgit
->>>>>>> dev
+
